@@ -1,0 +1,282 @@
+Date,Sportsbook,Sport,League,Bet Type,Bet,Odds,Closing Odds,Stake,Status,Profit
+2025-12-28 15:04,FanDuel,Basketball,NBA,Single,Nikola Jokic Over 27.5 Points,-120,-138,50.00,Lost,-50.00
+2025-12-30 10:01,DraftKings,Soccer,EPL,Single,Over 2.5 Goals,-105,-100,25.00,Won,23.81
+2025-12-30 14:22,DraftKings,Basketball,NBA,Single,Anthony Edwards Over 25.5 Points,-115,-135,25.00,Lost,-25.00
+2025-12-30 17:50,DraftKings,Soccer,EPL,Single,Over 2.5 Goals,-105,-107,25.00,Won,23.81
+2025-12-30 22:56,ESPN BET,Basketball,NBA,Single,Celtics -3.5 Spread,-110,-116,25.00,Won,22.73
+2025-12-31 15:36,ESPN BET,Hockey,NHL,Single,Avalanche -1.5 Puck Line,+145,+124,25.00,Lost,-25.00
+2026-01-01 03:04,FanDuel,Hockey,NHL,Single,Rangers -1.5 Puck Line,+145,+133,25.00,Won,36.25
+2026-01-01 03:52,ESPN BET,Football,NFL,2-Leg Parlay,2-Team Parlay,+260,+309,25.00,Lost,-25.00
+2026-01-01 07:38,FanDuel,Basketball,NBA,Single,Devin Booker Over 25.5 Points,-105,-126,37.50,Won,35.71
+2026-01-02 12:27,BetMGM,Baseball,MLB,Single,Dodgers Moneyline,+135,+144,25.00,Lost,-25.00
+2026-01-03 10:54,Caesars,Baseball,MLB,Single,Braves Moneyline,+120,+122,37.50,Won,45.00
+2026-01-04 02:44,DraftKings,Basketball,NBA,Single,LeBron James Over 31.5 Points,-110,-124,50.00,Won,45.45
+2026-01-04 05:46,BetMGM,Hockey,NHL,Single,Stars -1.5 Puck Line,+145,+125,25.00,Lost,-25.00
+2026-01-04 08:54,BetMGM,Football,NFL,2-Leg Parlay,2-Team Parlay,+450,+535,25.00,Lost,-25.00
+2026-01-04 10:43,DraftKings,Basketball,NBA,Single,Nikola Jokic Over 19.5 Points,+100,+87,37.50,Won,37.50
+2026-01-04 19:32,BetMGM,Football,NFL,4-Leg Parlay,4-Team Parlay,+260,+311,12.50,Lost,-12.50
+2026-01-05 07:07,BetMGM,Baseball,MLB,Single,Braves Moneyline,+120,+130,25.00,Push,0.00
+2026-01-07 09:19,DraftKings,Baseball,MLB,Single,Phillies Moneyline,-150,-149,25.00,Lost,-25.00
+2026-01-09 09:40,Caesars,Baseball,MLB,Single,Phillies Moneyline,-130,-130,37.50,Lost,-37.50
+2026-01-10 05:04,FanDuel,Soccer,EPL,Single,Over 2.5 Goals,-105,-108,25.00,Lost,-25.00
+2026-01-10 10:44,ESPN BET,Basketball,NBA,Single,Lakers -3.5 Spread,-110,-114,50.00,Lost,-50.00
+2026-01-10 20:18,ESPN BET,Baseball,MLB,Single,Dodgers Moneyline,+120,+129,25.00,Lost,-25.00
+2026-01-11 16:03,BetMGM,Basketball,NBA,Single,Heat -3.5 Spread,-110,-121,25.00,Won,22.73
+2026-01-11 22:35,ESPN BET,Football,NFL,Single,Josh Allen Anytime TD,+160,+178,12.50,Won,20.00
+2026-01-11 23:12,DraftKings,Baseball,MLB,Single,Astros Moneyline,-150,-139,37.50,Won,25.00
+2026-01-12 02:22,Caesars,Soccer,EPL,Single,Over 2.5 Goals,-105,-110,25.00,Won,23.81
+2026-01-12 11:03,FanDuel,Football,NFL,4-Leg Parlay,4-Team Parlay,+600,+712,12.50,Lost,-12.50
+2026-01-12 11:20,FanDuel,Basketball,NBA,Single,Devin Booker Over 27.5 Points,-120,-140,25.00,Won,20.83
+2026-01-13 10:05,FanDuel,Football,NFL,4-Leg Parlay,4-Team Parlay,+260,+304,25.00,Lost,-25.00
+2026-01-13 12:15,FanDuel,Basketball,NBA,Single,Jayson Tatum Over 19.5 Points,-120,-136,25.00,Lost,-25.00
+2026-01-16 03:47,FanDuel,Basketball,NBA,Single,Heat -3.5 Spread,-110,-114,25.00,Won,22.73
+2026-01-16 12:51,BetMGM,Basketball,NBA,Single,Anthony Edwards Over 25.5 Points,-105,-120,25.00,Won,23.81
+2026-01-17 04:56,Caesars,Basketball,NBA,Single,Heat -3.5 Spread,-110,-113,50.00,Won,45.45
+2026-01-17 15:00,BetMGM,Football,NFL,2-Leg Parlay,2-Team Parlay,+320,+380,25.00,Lost,-25.00
+2026-01-18 01:16,DraftKings,Football,NFL,Single,Christian McCaffrey Anytime TD,+160,+169,12.50,Lost,-12.50
+2026-01-20 20:57,FanDuel,Basketball,NBA,Single,Jayson Tatum Over 23.5 Points,-105,-123,25.00,Won,23.81
+2026-01-21 11:18,ESPN BET,Football,NFL,Single,Ja'Marr Chase Anytime TD,+160,+171,12.50,Won,20.00
+2026-01-21 13:00,DraftKings,Basketball,NBA,Single,Heat -3.5 Spread,-110,-112,50.00,Lost,-50.00
+2026-01-22 01:43,DraftKings,Baseball,MLB,Single,Phillies Moneyline,-130,-130,25.00,Lost,-25.00
+2026-01-22 09:22,FanDuel,Football,NFL,3-Leg Parlay,3-Team Parlay,+450,+526,25.00,Lost,-25.00
+2026-01-24 07:42,Caesars,Basketball,NBA,Single,LeBron James Over 25.5 Points,-110,-124,25.00,Won,22.73
+2026-01-24 11:00,ESPN BET,Football,NFL,3-Leg Parlay,3-Team Parlay,+320,+378,25.00,Lost,-25.00
+2026-01-24 17:05,Caesars,Football,NFL,3-Leg Parlay,3-Team Parlay,+180,+209,12.50,Lost,-12.50
+2026-01-24 18:27,Caesars,Basketball,NBA,Single,Lakers -3.5 Spread,-110,-117,25.00,Push,0.00
+2026-01-24 22:18,Caesars,Football,NFL,4-Leg Parlay,4-Team Parlay,+450,+533,25.00,Won,112.50
+2026-01-26 05:06,FanDuel,Basketball,NBA,Single,Nikola Jokic Over 23.5 Points,-110,-123,25.00,Push,0.00
+2026-01-26 11:52,BetMGM,Soccer,EPL,Single,Over 2.5 Goals,-105,-102,25.00,Won,23.81
+2026-01-26 20:27,FanDuel,Football,NFL,Single,Josh Allen Anytime TD,+160,+172,25.00,Lost,-25.00
+2026-01-27 05:14,BetMGM,Baseball,MLB,Single,Dodgers Moneyline,+135,+137,25.00,Lost,-25.00
+2026-01-27 15:14,FanDuel,Football,NFL,2-Leg Parlay,2-Team Parlay,+260,+311,25.00,Won,65.00
+2026-01-27 16:30,BetMGM,Football,NFL,Single,Josh Allen Anytime TD,+160,+179,12.50,Won,20.00
+2026-01-27 17:17,DraftKings,Basketball,NBA,Single,Heat -3.5 Spread,-110,-119,50.00,Won,45.45
+2026-01-27 17:51,FanDuel,Football,NFL,4-Leg Parlay,4-Team Parlay,+450,+535,25.00,Lost,-25.00
+2026-01-28 04:29,Caesars,Basketball,NBA,Single,Jayson Tatum Over 25.5 Points,-110,-127,50.00,Won,45.45
+2026-01-28 06:05,BetMGM,Football,NFL,Single,Josh Allen Anytime TD,+160,+179,12.50,Won,20.00
+2026-01-28 21:25,DraftKings,Football,NFL,2-Leg Parlay,2-Team Parlay,+260,+303,25.00,Push,0.00
+2026-01-29 11:09,ESPN BET,Basketball,NBA,Single,LeBron James Over 19.5 Points,-120,-139,25.00,Won,20.83
+2026-01-29 23:48,Caesars,Basketball,NBA,Single,Heat -3.5 Spread,-110,-110,25.00,Won,22.73
+2026-02-01 19:48,FanDuel,Basketball,NBA,Single,Nuggets -3.5 Spread,-110,-116,25.00,Push,0.00
+2026-02-01 21:15,Caesars,Soccer,EPL,Single,Over 2.5 Goals,-105,-105,25.00,Won,23.81
+2026-02-02 04:56,Caesars,Baseball,MLB,Single,Astros Moneyline,-150,-145,37.50,Lost,-37.50
+2026-02-02 16:45,BetMGM,Basketball,NBA,Single,Heat -3.5 Spread,-110,-113,25.00,Lost,-25.00
+2026-02-02 20:38,ESPN BET,Baseball,MLB,Single,Orioles Moneyline,-150,-145,25.00,Lost,-25.00
+2026-02-03 07:34,BetMGM,Baseball,MLB,Single,Orioles Moneyline,+120,+130,25.00,Lost,-25.00
+2026-02-04 03:40,FanDuel,Baseball,MLB,Single,Dodgers Moneyline,+120,+128,25.00,Lost,-25.00
+2026-02-05 19:50,Caesars,Basketball,NBA,Single,Anthony Edwards Over 23.5 Points,-105,-119,50.00,Won,47.62
+2026-02-06 15:05,FanDuel,Hockey,NHL,Single,Avalanche -1.5 Puck Line,+145,+133,25.00,Lost,-25.00
+2026-02-09 09:07,BetMGM,Football,NFL,3-Leg Parlay,3-Team Parlay,+180,+213,25.00,Lost,-25.00
+2026-02-10 15:38,FanDuel,Baseball,MLB,Single,Braves Moneyline,+135,+143,25.00,Lost,-25.00
+2026-02-10 18:18,Caesars,Baseball,MLB,Single,Dodgers Moneyline,-130,-128,25.00,Push,0.00
+2026-02-10 23:53,DraftKings,Baseball,MLB,Single,Orioles Moneyline,-110,-108,37.50,Won,34.09
+2026-02-11 23:37,DraftKings,Football,NFL,2-Leg Parlay,2-Team Parlay,+260,+304,12.50,Lost,-12.50
+2026-02-12 00:52,ESPN BET,Football,NFL,Single,Josh Allen Anytime TD,+160,+178,25.00,Lost,-25.00
+2026-02-12 21:07,Caesars,Hockey,NHL,Single,Stars -1.5 Puck Line,+145,+125,25.00,Lost,-25.00
+2026-02-12 21:38,Caesars,Hockey,NHL,Single,Panthers -1.5 Puck Line,+145,+129,25.00,Won,36.25
+2026-02-14 09:12,ESPN BET,Soccer,EPL,Single,Over 2.5 Goals,-105,-108,25.00,Won,23.81
+2026-02-14 18:33,BetMGM,Football,NFL,4-Leg Parlay,4-Team Parlay,+600,+704,25.00,Lost,-25.00
+2026-02-14 19:18,DraftKings,Basketball,NBA,Single,Nuggets -3.5 Spread,-110,-110,25.00,Won,22.73
+2026-02-14 23:34,FanDuel,Basketball,NBA,Single,Nikola Jokic Over 27.5 Points,-110,-126,50.00,Lost,-50.00
+2026-02-15 16:19,BetMGM,Football,NFL,Single,Patrick Mahomes Anytime TD,+160,+178,25.00,Lost,-25.00
+2026-02-15 17:46,DraftKings,Baseball,MLB,Single,Phillies Moneyline,-150,-142,25.00,Won,16.67
+2026-02-15 18:41,ESPN BET,Football,NFL,Single,Josh Allen Anytime TD,+160,+180,12.50,Lost,-12.50
+2026-02-16 07:26,DraftKings,Baseball,MLB,Single,Orioles Moneyline,-130,-131,37.50,Won,28.85
+2026-02-16 16:07,BetMGM,Basketball,NBA,Single,Celtics -3.5 Spread,-110,-120,50.00,Won,45.45
+2026-02-17 04:37,Caesars,Soccer,EPL,Single,Over 2.5 Goals,-105,-104,25.00,Won,23.81
+2026-02-18 11:43,BetMGM,Baseball,MLB,Single,Orioles Moneyline,+135,+145,25.00,Won,33.75
+2026-02-19 21:32,Caesars,Basketball,NBA,Single,Nikola Jokic Over 19.5 Points,-105,-123,37.50,Won,35.71
+2026-02-20 10:32,BetMGM,Soccer,EPL,Single,Over 2.5 Goals,-105,-104,25.00,Won,23.81
+2026-02-21 19:44,DraftKings,Football,NFL,Single,Patrick Mahomes Anytime TD,+160,+181,25.00,Lost,-25.00
+2026-02-22 01:34,Caesars,Basketball,NBA,Single,Lakers -3.5 Spread,-110,-117,50.00,Won,45.45
+2026-02-22 01:40,Caesars,Basketball,NBA,Single,LeBron James Over 31.5 Points,-110,-124,25.00,Won,22.73
+2026-02-22 17:19,ESPN BET,Basketball,NBA,Single,LeBron James Over 27.5 Points,-110,-124,25.00,Won,22.73
+2026-02-23 09:14,BetMGM,Football,NFL,4-Leg Parlay,4-Team Parlay,+450,+535,25.00,Lost,-25.00
+2026-02-26 13:02,DraftKings,Football,NFL,4-Leg Parlay,4-Team Parlay,+260,+307,12.50,Lost,-12.50
+2026-02-27 19:00,FanDuel,Football,NFL,3-Leg Parlay,3-Team Parlay,+260,+305,12.50,Lost,-12.50
+2026-02-27 19:59,FanDuel,Basketball,NBA,Single,Nuggets -3.5 Spread,-110,-121,25.00,Won,22.73
+2026-02-28 21:12,FanDuel,Soccer,EPL,Single,Over 2.5 Goals,-105,-102,25.00,Won,23.81
+2026-03-01 12:56,FanDuel,Football,NFL,Single,Christian McCaffrey Anytime TD,+160,+172,12.50,Lost,-12.50
+2026-03-01 16:54,ESPN BET,Basketball,NBA,Single,Nuggets -3.5 Spread,-110,-118,25.00,Lost,-25.00
+2026-03-03 11:05,ESPN BET,Basketball,NBA,Single,LeBron James Over 27.5 Points,-115,-133,50.00,Won,43.48
+2026-03-03 12:08,DraftKings,Basketball,NBA,Single,Heat -3.5 Spread,-110,-111,25.00,Won,22.73
+2026-03-05 20:40,Caesars,Football,NFL,4-Leg Parlay,4-Team Parlay,+180,+209,25.00,Lost,-25.00
+2026-03-06 01:57,DraftKings,Baseball,MLB,Single,Phillies Moneyline,+135,+138,25.00,Lost,-25.00
+2026-03-07 01:48,FanDuel,Basketball,NBA,Single,Lakers -3.5 Spread,-110,-113,25.00,Won,22.73
+2026-03-07 18:53,Caesars,Football,NFL,3-Leg Parlay,3-Team Parlay,+260,+301,12.50,Lost,-12.50
+2026-03-09 10:18,FanDuel,Baseball,MLB,Single,Dodgers Moneyline,+120,+129,25.00,Won,30.00
+2026-03-12 08:50,DraftKings,Football,NFL,Single,Josh Allen Anytime TD,+160,+181,12.50,Won,20.00
+2026-03-12 10:39,FanDuel,Football,NFL,Single,Josh Allen Anytime TD,+160,+172,25.00,Lost,-25.00
+2026-03-12 21:17,Caesars,Baseball,MLB,Single,Astros Moneyline,+120,+130,25.00,Won,30.00
+2026-03-12 22:50,FanDuel,Basketball,NBA,Single,Celtics -3.5 Spread,-110,-113,25.00,Won,22.73
+2026-03-13 03:43,ESPN BET,Baseball,MLB,Single,Orioles Moneyline,-130,-122,25.00,Lost,-25.00
+2026-03-13 04:35,FanDuel,Baseball,MLB,Single,Phillies Moneyline,+120,+122,25.00,Push,0.00
+2026-03-13 17:57,Caesars,Basketball,NBA,Single,Nikola Jokic Over 25.5 Points,+100,+84,25.00,Won,25.00
+2026-03-14 05:00,BetMGM,Baseball,MLB,Single,Orioles Moneyline,+135,+139,25.00,Lost,-25.00
+2026-03-14 09:53,DraftKings,Basketball,NBA,Single,Celtics -3.5 Spread,-110,-109,50.00,Won,45.45
+2026-03-14 10:58,DraftKings,Football,NFL,Single,Tyreek Hill Anytime TD,+160,+175,12.50,Won,20.00
+2026-03-14 14:12,FanDuel,Baseball,MLB,Single,Orioles Moneyline,-110,-101,37.50,Won,34.09
+2026-03-15 03:08,Caesars,Basketball,NBA,Single,Devin Booker Over 31.5 Points,+100,+80,50.00,Lost,-50.00
+2026-03-15 07:34,Caesars,Football,NFL,Single,CeeDee Lamb Anytime TD,+160,+176,12.50,Lost,-12.50
+2026-03-16 09:02,FanDuel,Baseball,MLB,Single,Astros Moneyline,-110,-104,25.00,Won,22.73
+2026-03-18 15:32,BetMGM,Basketball,NBA,Single,Heat -3.5 Spread,-110,-116,25.00,Won,22.73
+2026-03-18 22:33,DraftKings,Football,NFL,4-Leg Parlay,4-Team Parlay,+450,+525,12.50,Lost,-12.50
+2026-03-19 09:24,BetMGM,Baseball,MLB,Single,Yankees Moneyline,-130,-124,37.50,Won,28.85
+2026-03-20 02:50,DraftKings,Baseball,MLB,Single,Astros Moneyline,-130,-129,37.50,Won,28.85
+2026-03-20 13:47,FanDuel,Soccer,EPL,Single,Over 2.5 Goals,-105,-99,25.00,Lost,-25.00
+2026-03-20 19:56,FanDuel,Basketball,NBA,Single,Celtics -3.5 Spread,-110,-120,25.00,Won,22.73
+2026-03-21 00:12,DraftKings,Basketball,NBA,Single,Luka Doncic Over 23.5 Points,-110,-120,25.00,Lost,-25.00
+2026-03-21 19:43,BetMGM,Hockey,NHL,Single,Rangers -1.5 Puck Line,+145,+128,25.00,Won,36.25
+2026-03-22 12:09,BetMGM,Football,NFL,4-Leg Parlay,4-Team Parlay,+180,+209,25.00,Lost,-25.00
+2026-03-22 17:33,FanDuel,Football,NFL,Single,Ja'Marr Chase Anytime TD,+160,+178,25.00,Lost,-25.00
+2026-03-23 09:28,FanDuel,Basketball,NBA,Single,Nikola Jokic Over 23.5 Points,-110,-132,25.00,Won,22.73
+2026-03-24 14:11,FanDuel,Football,NFL,4-Leg Parlay,4-Team Parlay,+600,+709,12.50,Push,0.00
+2026-03-24 14:59,FanDuel,Baseball,MLB,Single,Yankees Moneyline,-150,-148,25.00,Lost,-25.00
+2026-03-27 06:58,BetMGM,Baseball,MLB,Single,Orioles Moneyline,+120,+121,25.00,Won,30.00
+2026-03-27 18:29,Caesars,Basketball,NBA,Single,Luka Doncic Over 23.5 Points,+100,+82,25.00,Won,25.00
+2026-03-28 04:19,ESPN BET,Football,NFL,2-Leg Parlay,2-Team Parlay,+600,+708,25.00,Lost,-25.00
+2026-03-28 04:42,FanDuel,Basketball,NBA,Single,LeBron James Over 25.5 Points,-105,-118,50.00,Won,47.62
+2026-03-28 09:17,DraftKings,Basketball,NBA,Single,Celtics -3.5 Spread,-110,-121,25.00,Lost,-25.00
+2026-03-29 12:47,BetMGM,Basketball,NBA,Single,LeBron James Over 23.5 Points,-120,-136,25.00,Lost,-25.00
+2026-03-31 23:53,Caesars,Soccer,EPL,Single,Over 2.5 Goals,-105,-106,25.00,Won,23.81
+2026-04-01 22:44,DraftKings,Baseball,MLB,Single,Astros Moneyline,-130,-128,37.50,Lost,-37.50
+2026-04-02 05:57,FanDuel,Soccer,EPL,Single,Over 2.5 Goals,-105,-100,25.00,Lost,-25.00
+2026-04-03 08:32,ESPN BET,Basketball,NBA,Single,Celtics -3.5 Spread,-110,-114,25.00,Lost,-25.00
+2026-04-04 13:59,ESPN BET,Basketball,NBA,Single,Celtics -3.5 Spread,-110,-115,25.00,Won,22.73
+2026-04-04 15:35,Caesars,Football,NFL,Single,Christian McCaffrey Anytime TD,+160,+177,12.50,Won,20.00
+2026-04-05 21:31,DraftKings,Football,NFL,4-Leg Parlay,4-Team Parlay,+260,+306,25.00,Lost,-25.00
+2026-04-06 07:18,DraftKings,Basketball,NBA,Single,Anthony Edwards Over 31.5 Points,-120,-142,25.00,Lost,-25.00
+2026-04-07 15:44,BetMGM,Hockey,NHL,Single,Oilers -1.5 Puck Line,+145,+125,25.00,Won,36.25
+2026-04-08 00:46,DraftKings,Baseball,MLB,Single,Dodgers Moneyline,-150,-139,25.00,Lost,-25.00
+2026-04-08 18:00,BetMGM,Basketball,NBA,Single,Jayson Tatum Over 26.5 Points,-115,-96,25.00,Won,21.74
+2026-04-09 08:00,BetMGM,Basketball,NBA,Single,Devin Booker Over 26.5 Points,-115,-100,25.00,Lost,-25.00
+2026-04-09 09:50,DraftKings,Baseball,MLB,Single,Dodgers Moneyline,+135,+137,25.00,Lost,-25.00
+2026-04-09 22:00,Caesars,Basketball,NBA,Single,Shai Gilgeous-Alexander Over 26.5 Points,-115,-106,33.75,Lost,-33.75
+2026-04-10 02:29,FanDuel,Basketball,NBA,Single,Jayson Tatum Over 31.5 Points,-110,-123,25.00,Lost,-25.00
+2026-04-10 12:00,BetMGM,Basketball,NBA,Single,Shai Gilgeous-Alexander Over 26.5 Points,-115,-97,45.50,Won,39.57
+2026-04-11 02:00,ESPN BET,Basketball,NBA,Single,LeBron James Over 26.5 Points,-115,-97,32.00,Won,27.83
+2026-04-11 16:00,BetMGM,Basketball,NBA,Single,Devin Booker Over 26.5 Points,-115,-106,25.00,Lost,-25.00
+2026-04-11 23:53,ESPN BET,Basketball,NBA,Single,Devin Booker Over 25.5 Points,-105,-114,37.50,Lost,-37.50
+2026-04-12 06:00,Caesars,Basketball,NBA,Single,Devin Booker Over 26.5 Points,-115,-105,33.75,Lost,-33.75
+2026-04-12 15:35,ESPN BET,Football,NFL,Single,Josh Allen Anytime TD,+160,+176,25.00,Lost,-25.00
+2026-04-12 20:00,Caesars,Basketball,NBA,Single,Shai Gilgeous-Alexander Over 26.5 Points,-115,-105,45.50,Won,39.57
+2026-04-13 10:00,BetMGM,Basketball,NBA,Single,Luka Doncic Over 26.5 Points,-115,-100,32.00,Lost,-32.00
+2026-04-13 11:35,FanDuel,Basketball,NBA,Single,Lakers -3.5 Spread,-110,-112,25.00,Won,22.73
+2026-04-14 00:00,ESPN BET,Basketball,NBA,Single,Devin Booker Over 26.5 Points,-115,-104,43.00,Lost,-43.00
+2026-04-14 14:00,BetMGM,Basketball,NBA,Single,Jayson Tatum Over 26.5 Points,-115,-103,58.25,Won,50.65
+2026-04-15 00:45,DraftKings,Soccer,EPL,Single,Over 2.5 Goals,-105,-100,25.00,Lost,-25.00
+2026-04-15 04:00,BetMGM,Basketball,NBA,Single,Luka Doncic Over 26.5 Points,-115,-102,40.75,Lost,-40.75
+2026-04-15 11:31,FanDuel,Basketball,NBA,Single,Nikola Jokic Over 31.5 Points,-120,-136,50.00,Won,41.67
+2026-04-15 18:00,Caesars,Basketball,NBA,Single,Luka Doncic Over 26.5 Points,-115,-99,55.00,Lost,-55.00
+2026-04-15 21:50,DraftKings,Basketball,NBA,Single,LeBron James Over 31.5 Points,+100,+88,25.00,Lost,-25.00
+2026-04-16 08:00,ESPN BET,Basketball,NBA,Single,Luka Doncic Over 26.5 Points,-115,-104,74.25,Lost,-74.25
+2026-04-16 20:10,Caesars,Baseball,MLB,Single,Astros Moneyline,+120,+123,25.00,Lost,-25.00
+2026-04-16 22:00,DraftKings,Basketball,NBA,Single,Luka Doncic Over 26.5 Points,-115,-104,100.00,Lost,-100.00
+2026-04-17 12:00,BetMGM,Basketball,NBA,Single,Nikola Jokic Over 26.5 Points,-115,-98,135.25,Won,117.61
+2026-04-18 01:44,BetMGM,Baseball,MLB,Single,Orioles Moneyline,-110,-110,37.50,Won,34.09
+2026-04-18 02:00,DraftKings,Basketball,NBA,Single,Devin Booker Over 26.5 Points,-115,-107,94.50,Lost,-94.50
+2026-04-18 16:00,ESPN BET,Basketball,NBA,Single,Jayson Tatum Over 26.5 Points,-115,-99,127.75,Lost,-127.75
+2026-04-19 02:59,BetMGM,Baseball,MLB,Single,Dodgers Moneyline,-150,-143,25.00,Won,16.67
+2026-04-19 06:00,Caesars,Basketball,NBA,Single,Luka Doncic Over 26.5 Points,-115,-106,150.00,Lost,-150.00
+2026-04-19 18:27,ESPN BET,Basketball,NBA,Single,Devin Booker Over 25.5 Points,-115,-137,25.00,Won,21.74
+2026-04-19 20:00,FanDuel,Basketball,NBA,Single,Devin Booker Over 26.5 Points,-115,-100,150.00,Won,130.43
+2026-04-20 10:00,DraftKings,Basketball,NBA,Single,Devin Booker Over 26.5 Points,-115,-99,105.00,Lost,-105.00
+2026-04-21 00:00,ESPN BET,Basketball,NBA,Single,Jayson Tatum Over 26.5 Points,-115,-98,141.75,Lost,-141.75
+2026-04-21 14:00,ESPN BET,Basketball,NBA,Single,Shai Gilgeous-Alexander Over 26.5 Points,-115,-106,150.00,Won,130.43
+2026-04-22 04:00,Caesars,Basketball,NBA,Single,Shai Gilgeous-Alexander Over 26.5 Points,-115,-95,105.00,Won,91.30
+2026-04-22 11:32,DraftKings,Baseball,MLB,Single,Yankees Moneyline,-130,-119,25.00,Lost,-25.00
+2026-04-22 18:00,FanDuel,Basketball,NBA,Single,Devin Booker Over 26.5 Points,-115,-107,73.50,Won,63.91
+2026-04-23 08:00,DraftKings,Basketball,NBA,Single,Shai Gilgeous-Alexander Over 26.5 Points,-115,-107,51.50,Lost,-51.50
+2026-04-23 18:49,BetMGM,Basketball,NBA,Single,Nikola Jokic Over 27.5 Points,-120,-136,50.00,Lost,-50.00
+2026-04-25 01:57,DraftKings,Basketball,NBA,Single,Luka Doncic Over 19.5 Points,-120,-138,25.00,Won,20.83
+2026-04-26 01:27,BetMGM,Hockey,NHL,Single,Oilers -1.5 Puck Line,+145,+122,25.00,Won,36.25
+2026-04-28 06:36,DraftKings,Baseball,MLB,Single,Astros Moneyline,+135,+134,25.00,Lost,-25.00
+2026-04-28 15:34,Caesars,Basketball,NBA,Single,Celtics -3.5 Spread,-110,-109,50.00,Lost,-50.00
+2026-04-29 02:28,FanDuel,Basketball,NBA,Single,Lakers -3.5 Spread,-110,-119,50.00,Lost,-50.00
+2026-04-29 22:05,DraftKings,Football,NFL,Single,CeeDee Lamb Anytime TD,+160,+178,12.50,Won,20.00
+2026-04-30 10:44,BetMGM,Soccer,EPL,Single,Over 2.5 Goals,-105,-103,25.00,Lost,-25.00
+2026-05-01 16:12,DraftKings,Basketball,NBA,Single,Devin Booker Over 31.5 Points,-120,-138,37.50,Lost,-37.50
+2026-05-01 23:29,Caesars,Baseball,MLB,Single,Orioles Moneyline,-150,-149,25.00,Won,16.67
+2026-05-02 05:36,Caesars,Basketball,NBA,Single,Heat -3.5 Spread,-110,-121,25.00,Lost,-25.00
+2026-05-02 23:23,FanDuel,Soccer,EPL,Single,Over 2.5 Goals,-105,-99,25.00,Won,23.81
+2026-05-03 00:54,Caesars,Basketball,NBA,Single,Heat -3.5 Spread,-110,-117,25.00,Lost,-25.00
+2026-05-03 05:34,DraftKings,Basketball,NBA,Single,Luka Doncic Over 25.5 Points,+100,+89,25.00,Won,25.00
+2026-05-03 08:52,DraftKings,Baseball,MLB,Single,Braves Moneyline,-150,-147,25.00,Won,16.67
+2026-05-03 14:21,BetMGM,Basketball,NBA,Single,Heat -3.5 Spread,-110,-111,50.00,Won,45.45
+2026-05-03 22:08,BetMGM,Hockey,NHL,Single,Oilers -1.5 Puck Line,+145,+123,25.00,Won,36.25
+2026-05-04 00:21,DraftKings,Basketball,NBA,Single,Nikola Jokic Over 31.5 Points,-105,-116,50.00,Lost,-50.00
+2026-05-04 05:15,FanDuel,Basketball,NBA,Single,Celtics -3.5 Spread,-110,-120,50.00,Won,45.45
+2026-05-04 12:22,ESPN BET,Basketball,NBA,Single,Heat -3.5 Spread,-110,-117,25.00,Won,22.73
+2026-05-06 12:37,ESPN BET,Hockey,NHL,Single,Panthers -1.5 Puck Line,+145,+129,25.00,Lost,-25.00
+2026-05-07 21:11,BetMGM,Soccer,EPL,Single,Over 2.5 Goals,-105,-107,25.00,Won,23.81
+2026-05-08 19:32,FanDuel,Football,NFL,3-Leg Parlay,3-Team Parlay,+600,+712,25.00,Lost,-25.00
+2026-05-09 00:07,FanDuel,Basketball,NBA,Single,Heat -3.5 Spread,-110,-109,25.00,Push,0.00
+2026-05-09 02:47,Caesars,Basketball,NBA,Single,Shai Gilgeous-Alexander Over 27.5 Points,-105,-121,37.50,Lost,-37.50
+2026-05-11 08:21,BetMGM,Basketball,NBA,Single,Anthony Edwards Over 31.5 Points,-110,-124,50.00,Lost,-50.00
+2026-05-11 08:52,ESPN BET,Football,NFL,Single,Tyreek Hill Anytime TD,+160,+169,25.00,Lost,-25.00
+2026-05-12 22:54,DraftKings,Baseball,MLB,Single,Phillies Moneyline,+135,+136,25.00,Push,0.00
+2026-05-13 09:47,BetMGM,Basketball,NBA,Single,Celtics -3.5 Spread,-110,-121,25.00,Won,22.73
+2026-05-15 13:17,DraftKings,Football,NFL,Single,Ja'Marr Chase Anytime TD,+160,+172,25.00,Won,40.00
+2026-05-16 02:50,Caesars,Hockey,NHL,Single,Stars -1.5 Puck Line,+145,+134,25.00,Push,0.00
+2026-05-17 10:48,ESPN BET,Basketball,NBA,Single,Celtics -3.5 Spread,-110,-113,25.00,Lost,-25.00
+2026-05-20 01:58,FanDuel,Basketball,NBA,Single,Anthony Edwards Over 24.5 Points,-110,-135,50.00,Lost,-50.00
+2026-05-20 03:38,FanDuel,Baseball,MLB,Single,Astros Moneyline,+120,+122,25.00,Won,30.00
+2026-05-20 05:36,FanDuel,Baseball,MLB,Single,Phillies Moneyline,+120,+123,25.00,Won,30.00
+2026-05-20 08:35,DraftKings,Baseball,MLB,Single,Yankees Moneyline,-110,-109,25.00,Won,22.73
+2026-05-20 12:13,BetMGM,Basketball,NBA,Single,Nuggets -3.5 Spread,-110,-112,25.00,Won,22.73
+2026-05-20 12:17,BetMGM,Basketball,NBA,Single,Jayson Tatum Over 25.5 Points,-115,-130,50.00,Lost,-50.00
+2026-05-20 19:30,Caesars,Soccer,EPL,Single,Over 2.5 Goals,-105,-108,25.00,Lost,-25.00
+2026-05-21 01:14,FanDuel,Basketball,NBA,Single,Luka Doncic Over 24.5 Points,-110,-132,37.50,Lost,-37.50
+2026-05-21 03:38,BetMGM,Basketball,NBA,Single,Celtics -3.5 Spread,-110,-111,25.00,Won,22.73
+2026-05-22 01:49,DraftKings,Baseball,MLB,Single,Braves Moneyline,-110,-108,25.00,Won,22.73
+2026-05-22 09:39,Caesars,Basketball,NBA,Single,Heat -3.5 Spread,-110,-117,25.00,Won,22.73
+2026-05-22 14:40,BetMGM,Basketball,NBA,Single,Heat -3.5 Spread,-110,-121,25.00,Won,22.73
+2026-05-22 23:41,FanDuel,Basketball,NBA,Single,Nuggets -3.5 Spread,-110,-119,25.00,Lost,-25.00
+2026-05-23 04:45,DraftKings,Football,NFL,Single,CeeDee Lamb Anytime TD,+160,+181,25.00,Won,40.00
+2026-05-23 21:34,FanDuel,Football,NFL,Single,Christian McCaffrey Anytime TD,+160,+174,25.00,Won,40.00
+2026-05-24 18:05,BetMGM,Football,NFL,Single,Josh Allen Anytime TD,+160,+180,12.50,Lost,-12.50
+2026-05-25 17:35,DraftKings,Football,NFL,Single,Tyreek Hill Anytime TD,+160,+175,12.50,Lost,-12.50
+2026-05-25 18:20,DraftKings,Basketball,NBA,Single,Celtics -3.5 Spread,-110,-111,25.00,Won,22.73
+2026-05-25 20:28,Caesars,Basketball,NBA,Single,Shai Gilgeous-Alexander Over 24.5 Points,-110,-128,50.00,Won,45.45
+2026-05-26 08:02,BetMGM,Basketball,NBA,Single,Nikola Jokic Over 24.5 Points,-110,-127,37.50,Lost,-37.50
+2026-05-26 13:16,BetMGM,Basketball,NBA,Single,Anthony Edwards Over 24.5 Points,-110,-133,50.00,Won,45.45
+2026-05-26 22:33,DraftKings,Football,NFL,Single,Christian McCaffrey Anytime TD,+160,+172,25.00,Lost,-25.00
+2026-05-27 20:02,DraftKings,Football,NFL,4-Leg Parlay,4-Team Parlay,+180,+216,12.50,Lost,-12.50
+2026-05-27 22:08,BetMGM,Football,NFL,3-Leg Parlay,3-Team Parlay,+600,+707,25.00,Lost,-25.00
+2026-05-28 13:02,DraftKings,Soccer,EPL,Single,Over 2.5 Goals,-105,-99,25.00,Lost,-25.00
+2026-05-28 17:47,FanDuel,Basketball,NBA,Single,LeBron James Over 23.5 Points,+100,+90,50.00,Won,50.00
+2026-05-28 20:55,DraftKings,Football,NFL,3-Leg Parlay,3-Team Parlay,+180,+213,25.00,Lost,-25.00
+2026-05-28 21:32,FanDuel,Baseball,MLB,Single,Yankees Moneyline,-130,-120,25.00,Lost,-25.00
+2026-05-29 00:55,DraftKings,Baseball,MLB,Single,Phillies Moneyline,-110,-106,25.00,Won,22.73
+2026-05-29 02:50,DraftKings,Football,NFL,2-Leg Parlay,2-Team Parlay,+260,+304,25.00,Lost,-25.00
+2026-05-29 02:58,DraftKings,Basketball,NBA,Single,Anthony Edwards Over 31.5 Points,+100,+92,25.00,Won,25.00
+2026-05-30 13:28,ESPN BET,Soccer,EPL,Single,Over 2.5 Goals,-105,-102,25.00,Lost,-25.00
+2026-05-30 22:57,DraftKings,Basketball,NBA,Single,Jayson Tatum Over 24.5 Points,-110,-130,37.50,Lost,-37.50
+2026-05-31 02:04,FanDuel,Basketball,NBA,Single,Luka Doncic Over 27.5 Points,-110,-125,25.00,Won,22.73
+2026-06-01 11:12,Caesars,Soccer,EPL,Single,Over 2.5 Goals,-105,-99,25.00,Won,23.81
+2026-06-02 18:40,DraftKings,Basketball,NBA,Single,LeBron James Over 24.5 Points,-110,-127,50.00,Won,45.45
+2026-06-02 22:35,BetMGM,Basketball,NBA,Single,LeBron James Over 24.5 Points,-110,-124,25.00,Won,22.73
+2026-06-03 10:12,Caesars,Basketball,NBA,Single,LeBron James Over 24.5 Points,-110,-130,25.00,Lost,-25.00
+2026-06-03 18:37,ESPN BET,Football,NFL,4-Leg Parlay,4-Team Parlay,+320,+383,25.00,Lost,-25.00
+2026-06-04 00:29,FanDuel,Soccer,EPL,Single,Over 2.5 Goals,-105,-99,25.00,Lost,-25.00
+2026-06-04 07:40,Caesars,Soccer,EPL,Single,Over 2.5 Goals,-105,-103,25.00,Won,23.81
+2026-06-04 17:42,Caesars,Basketball,NBA,Single,Devin Booker Over 25.5 Points,-110,-121,25.00,Won,22.73
+2026-06-05 00:52,DraftKings,Basketball,NBA,Single,Devin Booker Over 24.5 Points,-110,-131,37.50,Won,34.09
+2026-06-05 09:17,FanDuel,Basketball,NBA,Single,Luka Doncic Over 24.5 Points,-110,-125,37.50,Lost,-37.50
+2026-06-05 10:50,DraftKings,Baseball,MLB,Single,Dodgers Moneyline,+135,+141,37.50,Lost,-37.50
+2026-06-06 02:21,FanDuel,Football,NFL,Single,Tyreek Hill Anytime TD,+160,+178,25.00,Lost,-25.00
+2026-06-06 14:24,FanDuel,Baseball,MLB,Single,Dodgers Moneyline,-110,-103,25.00,Won,22.73
+2026-06-06 19:21,BetMGM,Hockey,NHL,Single,Stars -1.5 Puck Line,+145,+129,25.00,Lost,-25.00
+2026-06-07 14:13,BetMGM,Football,NFL,3-Leg Parlay,3-Team Parlay,+180,+213,12.50,Lost,-12.50
+2026-06-07 21:52,BetMGM,Basketball,NBA,Single,Celtics -3.5 Spread,-110,-116,25.00,Won,22.73
+2026-06-07 23:53,BetMGM,Basketball,NBA,Single,LeBron James Over 24.5 Points,-110,-126,25.00,Lost,-25.00
+2026-06-08 18:36,BetMGM,Baseball,MLB,Single,Astros Moneyline,+120,+119,25.00,Won,30.00
+2026-06-08 22:32,DraftKings,Basketball,NBA,Single,Anthony Edwards Over 19.5 Points,-115,-138,37.50,Lost,-37.50
+2026-06-09 00:42,DraftKings,Basketball,NBA,Single,Jayson Tatum Over 31.5 Points,-105,-116,50.00,Won,47.62
+2026-06-09 01:12,Caesars,Basketball,NBA,Single,Shai Gilgeous-Alexander Over 24.5 Points,-110,-136,37.50,Lost,-37.50
+2026-06-09 01:16,BetMGM,Baseball,MLB,Single,Dodgers Moneyline,+135,+143,25.00,Won,33.75
+2026-06-11 00:24,FanDuel,Soccer,EPL,Single,Over 2.5 Goals,-105,-107,25.00,Won,23.81
+2026-06-12 11:54,ESPN BET,Football,NFL,3-Leg Parlay,3-Team Parlay,+600,+703,25.00,Lost,-25.00
+2026-06-14 09:09,Caesars,Football,NFL,Single,CeeDee Lamb Anytime TD,+160,+181,25.00,Lost,-25.00
+2026-06-14 21:00,ESPN BET,Basketball,NBA,Single,Nuggets -3.5 Spread,-110,-114,50.00,Won,45.45
+2026-06-14 22:50,BetMGM,Basketball,NBA,Single,Luka Doncic Over 24.5 Points,-110,-125,25.00,Push,0.00
