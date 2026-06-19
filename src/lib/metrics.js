@@ -142,10 +142,11 @@ export function stakeBucket(stakeUnits) {
 // --- breakdowns ------------------------------------------------------------
 
 export const DIMENSIONS = [
+  { id: 'leagueMarket', label: 'Market by League' },
   { id: 'sport', label: 'Sport' },
   { id: 'league', label: 'League' },
   { id: 'betType', label: 'Bet Type' },
-  { id: 'market', label: 'Market' },
+  { id: 'market', label: 'Market (all leagues)' },
   { id: 'sportsbook', label: 'Sportsbook' },
   { id: 'oddsRange', label: 'Odds Range' },
   { id: 'stakeSize', label: 'Stake Size' },
@@ -153,12 +154,24 @@ export const DIMENSIONS = [
   { id: 'category', label: 'Props vs Game Lines' },
 ]
 
+// "WNBA Player Assists" — market prefixed by its league (or sport) so the same
+// market in different leagues is graded separately.
+export function leagueMarketKey(bet) {
+  const lg = bet.league && bet.league !== 'Unknown'
+    ? bet.league
+    : bet.sport && bet.sport !== 'Unknown'
+      ? bet.sport
+      : ''
+  return lg ? `${lg} ${bet.market}` : (bet.market || 'Unknown')
+}
+
 export function dimensionKey(bet, dim, unitSize) {
   switch (dim) {
     case 'sport': return { key: bet.sport || 'Unknown', order: 0 }
     case 'league': return { key: bet.league || 'Unknown', order: 0 }
     case 'betType': return { key: bet.betType || 'Unknown', order: 0 }
     case 'market': return { key: bet.market || 'Unknown', order: 0 }
+    case 'leagueMarket': return { key: leagueMarketKey(bet), order: 0 }
     case 'sportsbook': return { key: bet.sportsbook || 'Unknown', order: 0 }
     case 'oddsRange': return oddsBucket(bet.odds)
     case 'stakeSize': return stakeBucket(unitSize ? bet.stake / unitSize : null)

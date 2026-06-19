@@ -7,7 +7,7 @@ import { gradeBreakdown } from '../lib/advisor'
 import { fmtMoney, fmtUnits, fmtPct, fmtSignedPct, fmtOdds, fmtNum } from '../lib/format'
 
 export default function Dashboard({ bets, allBets, unitSize, now, minSample }) {
-  const [dim, setDim] = useState('market')
+  const [dim, setDim] = useState('leagueMarket')
 
   const stats = useMemo(() => computeStats(bets, unitSize), [bets, unitSize])
   const equity = useMemo(() => equityCurve(bets, unitSize), [bets, unitSize])

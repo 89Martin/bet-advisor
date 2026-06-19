@@ -128,7 +128,9 @@ export function gradeBreakdown(bets, dim, unitSize, now, opts) {
 // ---------------------------------------------------------------------------
 
 export function buildAdvisorSummary(bets, unitSize, now, opts = {}) {
-  const markets = gradeBreakdown(bets, 'market', unitSize, now, opts)
+  // Grade markets within each league so e.g. WNBA and NBA "Player Assists" are
+  // judged separately rather than blended into one misleading number.
+  const markets = gradeBreakdown(bets, 'leagueMarket', unitSize, now, opts)
 
   const keep = markets
     .filter((g) => (g.grade.label === 'Hammer' || g.grade.label === 'Keep Betting') && g.stats.units > 0)
@@ -150,7 +152,7 @@ export function buildAdvisorSummary(bets, unitSize, now, opts = {}) {
 
 // Scan several dimensions and surface the single worst money drain.
 function findBiggestLeak(bets, unitSize, now) {
-  const dims = ['market', 'betType', 'sport', 'oddsRange', 'structure', 'category', 'sportsbook']
+  const dims = ['leagueMarket', 'betType', 'sport', 'oddsRange', 'structure', 'category', 'sportsbook']
   let worst = null
   for (const dim of dims) {
     for (const g of buildBreakdown(bets, dim, unitSize, now)) {
@@ -166,7 +168,7 @@ function findBiggestLeak(bets, unitSize, now) {
 
 function findTrends(bets, unitSize, now) {
   const recentStart = new Date(now.getTime() - 30 * DAY)
-  const dims = ['market', 'betType', 'sport']
+  const dims = ['leagueMarket', 'betType', 'sport']
   const candidates = []
   const seen = new Set()
   for (const dim of dims) {

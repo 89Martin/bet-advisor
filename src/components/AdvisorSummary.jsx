@@ -171,6 +171,6 @@ function NoneYet({ text }) {
 }
 
 function labelDim(dim) {
-  const map = { market: 'market', betType: 'bet type', sport: 'sport', oddsRange: 'odds range', structure: 'bet structure', category: 'bet category', sportsbook: 'sportsbook', league: 'league', stakeSize: 'stake size' }
+  const map = { leagueMarket: 'market', market: 'market', betType: 'bet type', sport: 'sport', oddsRange: 'odds range', structure: 'bet structure', category: 'bet category', sportsbook: 'sportsbook', league: 'league', stakeSize: 'stake size' }
   return map[dim] || dim
 }
